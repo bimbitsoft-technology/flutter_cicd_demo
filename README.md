@@ -1,4 +1,4 @@
-# one_app
+# flutter_cicd_demo
 
 A new Flutter project.
 
