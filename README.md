@@ -1,6 +1,6 @@
 # flutter_cicd_demo
 
-A new Flutter project.
+Demo project to setup environment CI/CD process with CodeMagic
 
 ## Getting Started
 
